@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2023-01-01_02-01-55" tag="1_3814701881">
+  <assembly name="">
+    <class name="Main" coveredlines="1" coverablelines="4" totallines="0" coveredbranches="0" totalbranches="0" coveredcodeelements="1" totalcodeelements="3" />
+  </assembly>
+</coverage>
